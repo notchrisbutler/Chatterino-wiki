@@ -49,7 +49,6 @@ Similar to nuuls, this is an anonymous image and video upload tool with a defaul
 | Request URL   | `https://imgdrip.com/api/upload` |
 | Form field    | `file`                           |
 | Image link    | `{url}`                          |
-| Deletion link | `{deleteUrl}`                    |
 
 ### [i.fourtf.com](https://github.com/fourtf/i)
 
